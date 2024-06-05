@@ -1,5 +1,5 @@
 {
-    "name": "eveseat/seat",
+    "name": "busa-git/seat-busa",
     "description": "Simple Eve Api Tool",
     "keywords": [
         "eve",
@@ -15,11 +15,11 @@
         "guzzlehttp/guzzle": "^7.2",
         "laravel/framework": "^10.0",
         "laravel/tinker": "^2.7",
-        "eveseat/api": "^5.0",
+        "busa-git/seat-api": "^5.0",
         "eveseat/eveapi": "^5.0",
-        "eveseat/notifications": "^5.0",
-        "eveseat/services": "^5.0",
-        "eveseat/web": "^5.0",
+        "busa-git/seat-notifications": "^5.0",
+        "busa-git/seat-services": "^5.0",
+        "busa-git/seat-web": "^5.0",
         "ext-pdo": "*"
     },
     "require-dev": {
